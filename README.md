@@ -1,3 +1,5 @@
+Forked from github.com/dustin/go-probably to return `error`s instead of `panic`ing.
+
 # Probabilistic Data Structures
 
 When you need to have a good idea of something, but don't need and/or
